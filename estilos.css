@@ -1,0 +1,66 @@
+body {
+    margin: 0px 400px 0px 400px;
+    padding: 0;
+}
+
+.lateral {
+    box-sizing: border-box;
+    float: left;
+    align-content: center;
+    background-color: dodgerblue;
+    width: 40%;
+    height: 100vh;
+    justify-content: center;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h6 {
+    color: white;
+}
+
+img {
+    border-radius: 50%;
+    margin-top: 75px;
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+}
+
+.ladoderecho {
+    padding: 50px;
+    box-sizing: border-box;
+    float: right;
+    margin: 0;
+    background-color: white;
+    width: 60%;
+    height: 100vh;
+}
+
+i {
+    font-size: 15px;
+    justify-content: left;
+}
+
+span {
+    color: brown;
+    padding-left: 25px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.gris {
+    color: grey;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.interlin {
+    margin: 0;
+    padding: 0;
+}
